@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653594983421",
+    "project_id": "hikelinkapp",
+    "storage_bucket": "hikelinkapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653594983421:android:f28f129f3fc4e83df4f794",
+        "android_client_info": {
+          "package_name": "com.hikelinkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653594983421-k7uh6ml8a019pj4c5v8s9qs77nlq49ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvBisrOT3N129y5ynqv9_oSF927y7fIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653594983421-k7uh6ml8a019pj4c5v8s9qs77nlq49ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

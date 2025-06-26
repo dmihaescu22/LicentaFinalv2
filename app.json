@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "HikeLinkApp",
+    "slug": "hike-link-app",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow HikeLink to use your location."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#556B2F",
+          "sounds": [
+            "./assets/notification-sound.wav"
+          ]
+        }
+      ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.hikelinkapp",
+      "supportsTablet": true
+    }
+  }
+}
